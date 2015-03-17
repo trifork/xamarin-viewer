@@ -1,5 +1,4 @@
 # xamarin-viewer
-h1. XamarinViewer
 
 Playground project for showing off different Xamarin development techniques.
 This includes:
